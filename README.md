@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Saurav Das
 - 👀 I’m interested in Data Analysis
-- 🌱 I’m currently learning R, SQL and Tableau
+- 🌱 I’m currently learning R, SQL and Power BI
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me sauravnal.das61@gmail.com
 
